@@ -13,6 +13,7 @@
 
 ## How to Use?
 * Compile with c99 and run: `gcc -std=c99 xxxSort.c && ./a.out`
+* For convenience, here just use `int` data type to storage length of the array. If your array is very large, make sure replace it with `unsigned int` or `unsigned long`.
 
 ## Update
 ### 2013-6-24 17:19:27
