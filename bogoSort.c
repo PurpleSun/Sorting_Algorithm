@@ -2,7 +2,7 @@
 	Filename: bogoSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement bogo sorting algorithm
+	Function: implement of bogo sorting algorithm
 	Time: 2013-6-23 23:43:59
 */
 #include <stdio.h>

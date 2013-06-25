@@ -2,7 +2,7 @@
 	Filename: quickSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement quick sorting algorithm
+	Function: implement of quick sorting algorithm
 	Time: 2013-6-20 20:44:23
 */
 #include <stdio.h>

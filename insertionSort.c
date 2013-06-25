@@ -2,7 +2,7 @@
 	Filename: insertionSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement insertion sorting algorithm
+	Function: implement of insertion sorting algorithm
 	Time: 2013-6-23 21:35:22
 */
 #include <stdio.h>

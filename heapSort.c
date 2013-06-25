@@ -2,7 +2,7 @@
 	Filename: heapSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement heap sorting algorithm
+	Function: implement of heap sorting algorithm
 	Time: 2013-6-23 22:57:54
 */
 #include <stdio.h>

@@ -2,7 +2,7 @@
 	Filename: shellSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement shell sorting algorithm
+	Function: implement of shell sorting algorithm
 	Time: 2013-6-23 22:07:21
 */
 #include <stdio.h>

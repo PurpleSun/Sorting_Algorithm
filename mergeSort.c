@@ -2,7 +2,7 @@
 	Filename: mergeSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement merge sorting algorithm
+	Function: implement of merge sorting algorithm
 	Time: 2013-6-24 13:56:25
 */
 #include <stdio.h>

@@ -2,7 +2,7 @@
 	Filename: selectionSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement selection sorting algorithm
+	Function: implement of selection sorting algorithm
 	Time: 2013-6-21 13:46:11
 */
 #include <stdio.h>

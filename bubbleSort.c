@@ -2,7 +2,7 @@
 	Filename: bubbleSort.c
 	Author: Tony Zeng
 	Mail: laoweiyeah@gmail.com
-	Function: implement bubble sorting algorithm
+	Function: implement of bubble sorting algorithm
 	Time: 2013-6-3 16:01:00
 */
 #include <stdio.h>
