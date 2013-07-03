@@ -17,6 +17,12 @@ void merge(int* array, int low, int half, int high)
 	int* rightArray = malloc(sizeof(int) * rightLenght);
 	int i, j, k;	// i point to leftArray, j point to rightArray, and k point to array
 	
+	if ( NULL == leftArray || NULL == rightArray)
+	{
+		printf("malloc error!\n");
+		exit(1);
+	}
+
 	// backup array with leftArray and rightArray
 	for (i = 0, k = low; i < leftLength; ++i, ++k)
 	{
@@ -39,6 +45,11 @@ void merge(int* array, int low, int half, int high)
 	{
 		array[k++] = rightArray[j++];
 	}
+
+	free(leftArray);
+	leftArray = NULL;
+	free(rightArray);
+	rightArray = NULL;
 }
 
 void mergeSort(int* array, int low, int high)
